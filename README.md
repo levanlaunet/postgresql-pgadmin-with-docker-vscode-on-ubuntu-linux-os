@@ -1,2 +1,4 @@
-# postgresql-pgadmin-with-docker-vscode-on-ubuntu-linux-os
-PostgreSql, pgAdmin with Docker, VScode on Ubuntu linux OS
+# PostgreSql, pgAdmin with Docker, VScode on Ubuntu linux OS
+
+### Youtube video : https://youtu.be/-SDXUbo7-rc
+### Blog : https://levanlau.net
